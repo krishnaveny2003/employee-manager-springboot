@@ -6,7 +6,7 @@ tags:
 - git
 - hotspot
 created: 2026-10-23
-updated: 2026-10-24
+updated: 2026-10-25
 filenames:
 - src/main/resources/application.properties
 links: []
@@ -14,7 +14,7 @@ kind: code
 status: proposed
 superseded_by: null
 deprecated_at: null
-review_after: 2026-10-24
+review_after: 2026-10-25
 source_chat_id: null
 created_at: 2026-10-23T12:52:56.204377500+00:00
 summary: null
